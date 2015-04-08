@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: spview - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP61CF.tmp" with contents
+[
+ws2_32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/spview.pdb" /debug /machine:I386 /out:"Debug/spview.exe" /pdbtype:sept 
+".\Debug\Canstelation.obj"
+".\Debug\DlgFind.obj"
+".\Debug\GraphStatic.obj"
+".\Debug\MeasInfoStatic.obj"
+".\Debug\Public.obj"
+".\Debug\SpectraView.obj"
+".\Debug\spview.obj"
+".\Debug\spviewDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\spview.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP61CF.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+spview.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
